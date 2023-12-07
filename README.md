@@ -1,4 +1,4 @@
-<p>Learning NestJS by making an enterprise ready API</p>
+<h2>Learning NestJS by making an enterprise ready API</h2>
 
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="200" alt="Nest Logo" /></a>
